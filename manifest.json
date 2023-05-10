@@ -1,4 +1,7 @@
 {
+ "background_color": "#FFFFFF",
+ "name": "Casa da Helena",
+ "description": "Obras Casa da Helena",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +39,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true",
- "name": "Casa da Helena",
- "description": "Obras Casa da Helena",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF"
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#FFFFFF"
 }
