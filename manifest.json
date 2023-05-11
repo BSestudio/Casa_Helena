@@ -36,7 +36,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true",
+ "start_url": "index.htm",
  "name": "Casa da Helena",
  "description": "Obras Casa da Helena",
  "display": "fullscreen",
